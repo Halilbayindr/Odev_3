@@ -1,0 +1,52 @@
+.container {
+    
+    margin:5px auto ;
+    
+    
+}
+.search {
+    margin-left: 120px;
+    margin-right: 120px;
+    height: 100px;
+    width: 1500px;
+}
+.bg-gray {
+    background-color:slategray;
+}
+.textbox {
+    height: 20px;
+    width: 220px;
+}
+
+.btn {
+    margin-left: 640px;
+}
+.table {
+    margin-top: 10px;
+    
+    float: left;
+   margin-right: 10px;
+   
+}
+.tb-left {
+    margin-left: 120px;
+}
+.td {
+    font-size: 25px;
+}
+.tb-bg {
+    background-color: aquamarine;
+}
+.textbox2 {
+    width: 200px;
+    height: 25px;
+    
+}
+.button2 {
+    height: 30px;
+    width: 90px;
+}
+
+.p {
+    margin-top: 10px ;
+}
